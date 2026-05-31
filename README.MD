@@ -1,4 +1,4 @@
-# Hello World! I am Sutirtha Mukherjee
+# Hello World! This is my story so far!
 
 Hi — I’m Sutirtha, a Machine Learning Researcher. My interests broadly lie in Interpretability in Deep Learning Architectures. I am also currently exploring the domain of Continual Learning to adress the Catasthropic Forgetting Problem.  
 
