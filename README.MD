@@ -20,13 +20,13 @@ Replace the placeholders with your actual repositories (link to each repo):
 - [Continual Learning](https://github.com/Continual-and-Incremental-Learning) — This organization contains repositories, trying to observe the Catastrophic forgetting problem and the ability of Continual and Incremental Learning to adress this problem.
 
 ## Accepted and Published Research Works
-# Plant Leaf Detection (https://github.com/SutirthaMukherjee97/PlantLeafDetection) [Accepted]
-- This repository represents my first venture to research. This work has been accepted by Willey (Currently under Final Publication Process). 
+# Plant Leaf Detection [Accepted]
+- This repository represents my first venture to research. This work has been accepted by Willey (Currently under Final Publication Process). [Github Repo: (https://github.com/SutirthaMukherjee97/PlantLeafDetection)]
 - The general requirement of this work is to develop a classification model, that can detect the particular plant species, based upon the given input image of its leaf. The specific object of this work is develop a Model with low training data-samples, that is light-weight, well generalized and is highly accurate over unseen test samples. 
 - The methodology involves training a DL Model (InceptionResNetV2) and leveraging the HSV and YUV color spaces, apart from the RGB, which generates three sets of confidence scores for that image. The ensemble of the  of the three outputs have been done using Sugeno Fuzzy Ensemble scheme.
 
-# Pneumonia Detection Using CXR Images (https://github.com/SutirthaMukherjee97/PneumoniaDetection_CXR_Images)
-- This work has been accepted at the CPAMCS-2023 conference, hosted by Springer, 2023. [Published] [DOI: https://doi.org/10.1007/978-3-031-64010-0_37].
+# Pneumonia Detection Using CXR Images [Published]
+- This work has been accepted at the CPAMCS-2023 conference, hosted by Springer, 2023.  [DOI: https://doi.org/10.1007/978-3-031-64010-0_37]. [Github Repo: (https://github.com/SutirthaMukherjee97/PneumoniaDetection_CXR_Images)]
 - The high-level objective of this work is to develop a DL Model system, that can reliably classify Pneumonia, COVID-19 and Normal Images. The specific objective is to develop a learnable feature selection algorithm over a generalized model system, to produce highly accurate prediction scores.
 - The architecture involves training separately a ResNet50 and a ViT architecture. It is followed with feature reduction using PCA. Finally, these features are meta-selected using XGB model, to produce the final output.
 
