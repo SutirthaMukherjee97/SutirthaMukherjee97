@@ -19,17 +19,26 @@ Replace the placeholders with your actual repositories (link to each repo):
 - [Interpretable Nerual Networks](https://github.com/NN-Interpretability-Visualization) — This organization contains repositories, that analyses the low-level information and gradient flow in the neural networks. Especially, low-level gradients and neural bottlenecks have been observed.
 - [Continual Learning](https://github.com/Continual-and-Incremental-Learning) — This organization contains repositories, trying to observe the Catastrophic forgetting problem and the ability of Continual and Incremental Learning to adress this problem.
 
-## Published and Completed Research Works
-- [Repo-Name-3](https://github.com/your-username/repo-3) — Short description of repo 3.
+## Accepted and Published Research Works
+# Plant Leaf Detection (https://github.com/SutirthaMukherjee97/PlantLeafDetection) [Accepted]
+- This repository represents my first venture to research. This work has been accepted by Willey (Currently under Final Publication Process). 
+- The general requirement of this work is to develop a classification model, that can detect the particular plant species, based upon the given input image of its leaf. The specific object of this work is develop a Model with low training data-samples, that is light-weight, well generalized and is highly accurate over unseen test samples. 
+- The methodology involves training a DL Model (InceptionResNetV2) and leveraging the HSV and YUV color spaces, apart from the RGB, which generates three sets of confidence scores for that image. The ensemble of the  of the three outputs have been done using Sugeno Fuzzy Ensemble scheme.
 
-## 🏢 Organizations
-Add organizations you belong to or maintain:
+# Pneumonia Detection Using CXR Images (https://github.com/SutirthaMukherjee97/PneumoniaDetection_CXR_Images)
+- This work has been accepted at the CPAMCS-2023 conference, hosted by Springer, 2023. [Published] [DOI: https://doi.org/10.1007/978-3-031-64010-0_37].
+- The high-level objective of this work is to develop a DL Model system, that can reliably classify Pneumonia, COVID-19 and Normal Images. The specific objective is to develop a learnable feature selection algorithm over a generalized model system, to produce highly accurate prediction scores.
+- The architecture involves training separately a ResNet50 and a ViT architecture. It is followed with feature reduction using PCA. Finally, these features are meta-selected using XGB model, to produce the final output.
 
-- [Organization-Name-1](https://github.com/org-name-1) — Role / short note.
-- [Organization-Name-2](https://github.com/org-name-2) — Role / short note.
+## Completed Research Project
+
+# Long Time Series Forecasting 
+- TBA
+
 
 ## 📫 Contact
-- Email: your.email@example.com
-- Website / Portfolio: https://your-website.example
-- Twitter / Mastodon / LinkedIn: @yourhandle
+- Email: sutirthamukherjee1@gmail.com
+- Google Scholar: https://scholar.google.com/citations?user=95-I7HoAAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/sutirtha-mukherjee/
+- Twitter: https://x.com/StoryTeller_97
 
