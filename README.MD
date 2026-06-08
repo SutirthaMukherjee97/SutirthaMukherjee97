@@ -6,18 +6,21 @@ I have worked as a Machine Learning Engineer at a healthcare startup, where I ha
 
 I have been an Undergraduate Researcher at Jadavpur University, where I have worked on domains of Machine Learning in Medicine and Agriculture. I have also worked on modelling Long-Time Series Forecasting sequential data.
 
-## 🔭 Areas of focus
+## 🔭 Areas of Interest
 - Interpretable and Prunable Neural Networks
 - Continual Learning 
 - Self-Supervised Learning and World Models
 - Multimodal Architectures
+- Long Time Series Forecasting
 
 
-## 📚 Selected Research Projects
-Replace the placeholders with your actual repositories (link to each repo):
+## 📚 Research Projects
+The following organizations represent the anthologies of my research experiments:
 
 - [Interpretable Nerual Networks](https://github.com/NN-Interpretability-Visualization) — This organization contains repositories, that analyses the low-level information and gradient flow in the neural networks. Especially, low-level gradients and neural bottlenecks have been observed.
 - [Continual Learning](https://github.com/Continual-and-Incremental-Learning) — This organization contains repositories, trying to observe the Catastrophic forgetting problem and the ability of Continual and Incremental Learning to adress this problem.
+
+- [Long TimeSeries Forecasting]()
 
 ## Accepted and Published Research Works
 # Plant Leaf Detection [Accepted]
