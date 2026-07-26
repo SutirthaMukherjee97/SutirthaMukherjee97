@@ -7,8 +7,8 @@ I have worked as a Machine Learning Engineer at a healthcare startup, where I ha
 I have been an Undergraduate Researcher at Jadavpur University, where I have worked on domains of Machine Learning in Medicine and Agriculture. I have also worked on modelling Long-Time Series Forecasting sequential data.
 
 ## 🔭 Areas of Interest
-- Interpretable and Prunable Neural Networks
 - Continual Learning 
+- Interpretable and Prunable Neural Networks
 - Self-Supervised Learning and World Models
 - Multimodal Architectures
 - Long Time Series Forecasting
